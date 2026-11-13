@@ -6,7 +6,7 @@ I am looking for a **V.I.E.** (French international volunteer program) in AI: pr
 
 ## Featured projects
 
-### Momo's (private repository, demo on request)
+### [Momo's ](https://momos-nu.vercel.app) (private repository, demo on request) 
 Full-stack app for a golf club: rounds, handicap index, rankings and membership fees. About 20 players use it every day, in French, English and Spanish.
 
 `FastAPI` `React` `PostgreSQL`
