@@ -1,28 +1,33 @@
-## Hi there 👋, I'm Samuel
+## Hi, I'm Samuel 👋
 
-🎓 Master’s Degree in MAS, AI Pathway  
-📊 Dual Degree in Magistère of Statistics and Economic Modeling
+AI specialist at **Akkodis**, on assignment at **Airbus** in Toulouse, France. On the Final Assembly Line ground tests, I coordinate a large language model (LLM) project and built a statistical app that tracks aircraft through the assembly stations.
 
-([link to my website](https://minimugule.github.io/))
+I am looking for a **V.I.E.** (French international volunteer program) in AI: project or product management, pre-sales or data science.
 
-## About Me
-I am passionate about artificial intelligence, statistical modeling and data analysis. Here are some of the projects I completed during my studies.
+## Featured projects
 
-## Statistic Projects
+### Momo's (private repository, demo on request)
+Full-stack app for a golf club: rounds, handicap index, rankings and membership fees. About 20 players use it every day, in French, English and Spanish.
 
-### _Craf beer around Rennes (R)_([link to project repository](https://github.com/Minimugule/OptimalLocationCraftBeer))
-**Summary** : This R project analyzes the optimal location for establishing a craft beer cellar around Rennes, using demographic, economic, and geographic data. It employs spatial statistical methods to identify the best site and select a suitable brand. The data is sourced from the French government’s SIRENE database and geographic IRIS information.
+`FastAPI` `React` `PostgreSQL`
 
-### _Road accidennts in Rennes (Python)_([link to project repository](https://github.com/Minimugule/AnalyzesRoadAccidents))
-**Summary** : This Python project analyzes road accidents using the pandas and bokeh libraries for data visualization. It processes accident data by splitting date and time, sorting the dataset, and mapping specific vehicle types to broader categories (e.g., car, motorcycle, heavy vehicle). The project aims to visualize accident trends and categorize accident types for better insights.
+### [anakin-nlp](https://github.com/Minimugule/anakin-nlp)
+Did Anakin Skywalker's language actually change? I measure his turn to the dark side from screenplay dialogue alone, with emotion models, text classifiers and rotation tests. A rebuild of a master's project, including where my original result did not hold up.
 
-## Technical Skills
-- Languages : Python, R/RShiny, SQL/NoSQL, VBA, SAS, PowerBI
-- Libraries : matplotlib, Pandas, bokeh, torch, networkx, numpy, keras, tidyverse, FactoMineR, sf,...
-- Tools : Rstudio, Visual Studio Code, Jupyter, MangoDB
+`Python` `NLP` `DistilBERT` `scikit-learn` `statistics`
 
-## Contact Me
-- [LinkedIn](www.linkedin.com/in/samuel-ballu-3833a3202)
-- [Mail](mailto:ballu.samu@gmail.com)
+## Earlier projects (master's degree)
+- [Craft beer cellar location around Rennes](https://github.com/Minimugule/OptimalLocationCraftBeer): spatial statistics in R on French business register (SIRENE) and census (IRIS) data.
+- [Road accidents in Rennes](https://github.com/Minimugule/AnalyzesRoadAccidents): accident trends and maps in Python, with pandas and Bokeh.
 
+## Skills
+- **AI and data:** large language models (LLM), retrieval-augmented generation (RAG), LangChain, Langfuse, machine learning, deep learning, natural language processing (NLP), statistics
+- **Programming and tools:** Python, pandas, NumPy, scikit-learn, PyTorch, spaCy, SQL, R, VBA, Dash, Streamlit, FastAPI, React, PostgreSQL, Git, Power BI
 
+## Education
+- MSc in Applied Mathematics and Statistics, Artificial Intelligence track, Université Rennes 2 (2025)
+- Magistère in Economic Modeling and Statistics, Université de Rennes 1 (2025, with honors)
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/samuel-ballu-3833a3202)
+- [Email](mailto:ballu.samu@gmail.com)
